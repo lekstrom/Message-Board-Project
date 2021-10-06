@@ -1,0 +1,132 @@
+body{
+	background-image:
+	url(../images/img8.jpg);
+	
+	
+}
+
+
+#container{
+	width: 905px;
+	margin-left:auto;
+	margin-right:auto;
+	
+
+}
+
+#firstheader{
+	
+	text-align:center;
+	font-family:"Verdana", Sans-serif;
+	background:darkslategray;
+	color:white;
+	border-top-style:solid;
+	border-right-style:solid;
+	border-left-style:solid;
+	border-bottom-style:solid;
+	border-top-color: Black;
+	border-right-color: Black;
+	border-left-color: Black;
+	border-bottom-color: skyblue;
+	border-bottom-width: 7px;
+	padding-bottom: 1px;
+	padding-top: 1px;
+	margin-top: 30px;
+}
+
+#secondheader{
+	font-family:"Arial", Sans-serif;
+	padding-top: 5px;
+	padding-left: 20px;
+	padding-bottom: 5px;
+	padding-right: 20px;
+	margin-bottom: 5px;
+	border-style:solid;
+	background: white;
+}
+
+
+#thirdheader{
+	font-family:"Arial", Sans-serif;
+	padding-top: 5px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	margin-bottom: 10px;
+	border-style:solid;
+	background: white;
+}
+
+#logoutForm{
+	font-family:"Arial", Sans-serif;
+	width: 870px;;
+	height: 50px;
+	background: white;
+	float:left;
+	border-style:solid;
+	padding-top: 25px;
+	padding-bottom: 30px;
+	padding-left: 30px;
+	padding-bottom: 1px;
+}
+
+
+#comments{
+	font-family:"Arial", Sans-serif;
+	width: 870px;
+	height: 400px;
+	overflow: scroll;
+	background: white;
+	vertical-align: top;
+	border-style:solid;
+	padding-left: 30px;
+	padding-bottom: 30px;
+	margin-bottom: 5px;
+	
+
+}
+
+#commentForm{
+	
+	font-family:"Arial", Sans-serif;
+	width: 870px;
+	
+	background: white;
+	float:left;
+	border-style:solid;
+	height: 140px;
+	padding-left: 30px;
+	padding-bottom: 30px;
+	margin-bottom: 5px;
+	
+}
+
+#registerForm{
+	
+	font-family:"Arial", Sans-serif;
+	width: 415px;
+	height: 260px;
+	background: white;
+	float:left;
+	border-style:solid;
+	
+	padding-left: 30px;
+	padding-bottom: 30px;
+	
+}
+
+#loginForm{
+	
+	font-family:"Arial", Sans-serif;
+	width: 415px;
+	height: 260px;
+	background: white;
+	float:right;
+	border-style:solid;
+	
+	padding-left: 30px;
+	padding-bottom: 30px;
+	
+}
+
+
